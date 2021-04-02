@@ -21,4 +21,12 @@ You wont be able to update the pi or download anything until you disable the IP 
  
  :)
  
+Credit to idev1 as this was the fastest and lightweight method of turning the RPi into an Access Point. 
+https://github.com/idev1/rpihotspot
+ 
+I then watched a heap of youtube videos 
+ 
+Bunny Tutorials - This guy was the most helpful and nice and slow, just wish he had a guide because who likes typing haha
+https://youtu.be/8bOQ8OvGiNs
+ 
 
